@@ -1,0 +1,13 @@
+@font-face {
+    font-family: "There Brat";
+    src: url("./fonts/There Brat.otf");
+}
+
+h1{
+    font-family: "There Brat";
+    font-size: 30px;
+    color: rgb(149, 76, 186);
+}
+p{
+    font-size: 20px;
+}
