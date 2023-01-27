@@ -1,13 +1,14 @@
 @font-face {
-    font-family: "There Brat";
-    src: url("./fonts/There Brat.otf");
+  font-family: "There Brat";
+  src: url("./fonts/There Brat.otf");
 }
-
-h1{
-    font-family: "There Brat";
-    font-size: 30px;
-    color: rgb(149, 76, 186);
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@1,300&display=swap");
+h1 {
+  font-family: "There Brat";
+  font-size: 30px;
+  color: rgb(149, 76, 186);
 }
-p{
-    font-size: 20px;
+p {
+  font-size: 20px;
+  font-family: "Ubuntu", sans-serif;
 }
